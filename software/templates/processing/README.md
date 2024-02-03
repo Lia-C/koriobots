@@ -10,8 +10,9 @@ We can use Processing and the third-party library [oscP5](https://sojamo.de/libr
 
 1. Download and install [Processing](https://processing.org/download).
 2. Download and install [oscP5](https://sojamo.de/libraries/oscP5/) following these [instructions](https://sojamo.de/libraries/oscP5/#installation).
-3. Copy `koriobot_controller.pde` into your Processing Sketchbook.
-4. Configure your network settings:
+3. In Processing, import the library [ControlP5](https://github.com/sojamo/controlp5) following these [instructions](https://github.com/sojamo/controlp5?tab=readme-ov-file#a-nameinstallinstallation).
+4. Copy `koriobot_controller.pde` into your Processing Sketchbook.
+5. Configure your network settings:
 
 ![](https://github.com/madelinegannon/koriobots/blob/main/assets/processing/processing_network_settings.png)
 
